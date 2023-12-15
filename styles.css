@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.navbtn {
+    @apply border bg-indigo-100 border-hoverbg sm:border-2 py-1 px-3 rounded-lg hover:bg-hoverbg
+  }
